@@ -1,4 +1,3 @@
 resumo-aula02.md
 
-# Aula 02: operadores lógicos e exemplos
-Teste com scanner
+# Aula 02: Testes com scanner e Prints
